@@ -1,0 +1,11 @@
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\bin\Debug\20240203_Fruit_KorteA.exe.config
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\bin\Debug\20240203_Fruit_KorteA.exe
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\bin\Debug\20240203_Fruit_KorteA.pdb
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\20240203_Fruit_KorteA.csproj.AssemblyReference.cache
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\_20240203_Fruit_KorteA.Form_FruitList.resources
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\_20240203_Fruit_KorteA.Form_Fruit.resources
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\_20240203_Fruit_KorteA.Properties.Resources.resources
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\20240203_Fruit_KorteA.csproj.GenerateResource.cache
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\20240203_Fruit_KorteA.csproj.CoreCompileInputs.cache
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\20240203_Fruit_KorteA.exe
+C:\Users\korte\source\repos\20240203_Fruit_KorteA\obj\Debug\20240203_Fruit_KorteA.pdb
